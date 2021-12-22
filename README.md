@@ -3,6 +3,7 @@
 /* COMPILE */
 
 make
+
 sudo insmod main.ko
 
 
